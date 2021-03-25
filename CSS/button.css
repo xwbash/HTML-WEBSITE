@@ -1,0 +1,30 @@
+#buttonup{
+    background-color: #f7bc3f;
+    border: rgb(255, 255, 255);
+    border-radius: 6px;
+    color: rgb(0, 0, 0);
+    padding: 1px 100px;
+    text-align: center;
+    text-decoration:double;
+    display:inherit;
+    font-size: 15px;
+    margin: 210px 561px;
+    cursor: pointer;
+    letter-spacing: 0px;
+    font-family: "CenturyGothic";
+}   
+html {
+    scroll-behavior: smooth;
+
+}
+#section1 {
+    height: 0.5px;
+    
+}
+#section2{
+    height: 0px;
+}
+@font-face {
+    font-family: "CenturyGothic";
+    src: url("../fonts/CenturyGothic.ttf");
+}

@@ -1,0 +1,217 @@
+
+#siyahyazibaslik {
+    text-align: center;
+    top: 260px;
+    position: relative;
+    text-shadow: 1px 1px #464646;
+    color:rgb(20, 20, 20);
+    font-family: "BebasNeue";
+    font-size: 40px;
+}
+#textofbut{
+    left: 810px;
+    bottom: 75px;
+    position: relative;
+    letter-spacing: 2px;
+    font-family: "Hannibal";
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px #979797;
+    font-size: 50px;
+}
+#textofbut2{
+    left: 970px;
+    bottom: 240px;
+    position: relative;
+    letter-spacing: 2px;
+    font-family: "Hannibal";
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px #979797;
+    font-size: 40px;
+}
+
+a 
+{
+    color:white;
+    text-decoration: none; 
+    background-color: none;
+}
+
+#beyazblender{
+    text-align: center;
+    top: 1800px;
+    left: 450px;
+    position: relative;
+    text-shadow: 3px 3px #414141;
+    color:rgb(255, 255, 255);
+    font-family: "BebasNeue";
+    font-size: 40px;
+}
+#beyazunity{
+    text-align: center;
+    top: 1710px;
+    left: 1375px;
+    position: relative;
+    text-shadow: 3px 3px #414141;
+    color:rgb(255, 255, 255);
+    font-family: "BebasNeue";
+    font-size: 40px;
+}
+#siyahyaziparagraf {
+    object-position: 45px;
+    text-align: center;
+    top: 225px;
+    position: relative;
+    text-shadow: 1.3px 1.3px #464444;
+    color:rgb(0, 0, 0);
+    font-family: "BebasNeue";
+    font-size: 25px;
+}
+#siyahyazi1
+{
+    left: 45px;
+    object-position: 45px;
+    text-align: left;
+    top: 480px;
+    position: absolute;
+    text-shadow: 1.3px 1.3px #464444;
+    color:rgb(0, 0, 0);
+    font-family: "BebasNeue";
+    font-size: 35px;
+    z-index: 3;
+}
+#siyahyazi2
+{
+    left: 56px;
+    object-position: 45px;
+    text-align: left;
+    top: 530px;
+    position: absolute;
+    text-shadow: 1.3px 1.3px #464444;
+    color:rgb(0, 0, 0);
+    font-family: "BebasNeue";
+    font-size: 35px;
+    z-index: 3;
+}
+#siyahyazi3
+{
+    left: 80px;
+    object-position: 45px;
+    text-align: left;
+    top: 580px;
+    position: absolute;
+    text-shadow: 1.3px 1.3px #464444;
+    color:rgb(0, 0, 0);
+    font-family: "BebasNeue";
+    font-size: 35px;
+    z-index: 3;
+}
+#siyahyazi4
+{
+    left: 105px;
+    object-position: 45px;
+    text-align: left;
+    top: 630px;
+    position: absolute;
+    text-shadow: 1.3px 1.3px #464444;
+    color:rgb(0, 0, 0);
+    font-family: "BebasNeue";
+    font-size: 35px;
+    z-index: 3;
+}
+#beyazyazi1
+{
+    left: 490px;
+    object-position: 45px;
+    text-align: center;
+    top: 480px;
+    position: relative;
+    text-shadow: 1.3px 1.3px #3a3939;
+    color:rgb(255, 255, 255);
+    font-family: "BebasNeue";
+    font-size: 35px;
+}
+#beyazyazi2
+{
+    left: 490px;
+    object-position: 45px;
+    text-align: center;
+    top: 451px;
+    position: relative;
+    text-shadow: 1.3px 1.3px #3a3939;
+    color:rgb(255, 255, 255);
+    font-family: "BebasNeue";
+    font-size: 35px;
+}
+#beyazyazi3
+{
+    left: 450px;
+    object-position: 45px;
+    text-align: center;
+    top: 425px;
+    position: relative;
+    text-shadow: 1.3px 1.3px #3a3939;
+    color:rgb(255, 255, 255);
+    font-family: "BebasNeue";
+    font-size: 35px;
+}
+#baslik {
+    text-shadow: 0px -1px 4px #535353, 0px -2px 10px rgb(0, 0, 0), 0px -5px 5px #acacacbe, 0px -10px 5px rgb(0, 0, 0), 4px 4px #555555;
+    text-align: center;
+    top: 250px;
+    position: relative;
+    font-size: 75px;
+    object-position: 45px;
+    color: rgb(255, 255, 255);
+    font-family:"BebasNeue";
+    letter-spacing: 12px;
+    z-index: 1;
+}
+#baslik1 {
+    text-shadow: 0px -1px 4px #535353, 0px -2px 10px rgb(0, 0, 0), 0px -5px 5px #acacacbe, 0px -10px 5px rgb(0, 0, 0), 4px 4px #555555;
+    text-align: center;
+    top: 300px;
+    position: relative;
+    font-size: 75px;
+    object-position: 45px;
+    color: rgb(255, 255, 255);
+    font-family:"BebasNeue";
+    letter-spacing: 15px;
+    left: 780px;
+    z-index: 1;
+}
+#footer1 {
+    position: absolute;
+    top: 1450px;
+    left: 800px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    text-shadow: 1.3px 1.3px #000000;
+    color:whitesmoke;
+    background-color: midnightblue;
+    font-family: "BebasNeue";
+    opacity: 0.5;
+}
+#footer2 {
+    position: absolute;
+    top: 2230px;
+    left: 880px;
+    bottom: 0;
+    width: 170%;
+    text-align: center;
+    text-shadow: 1.3px 1.3px #000000;
+    color:whitesmoke;
+    background-color: midnightblue;
+    font-family: "BebasNeue";
+    opacity: 0.5;
+}
+@font-face {
+    font-family: "CenturyGothic";
+    src: url("../fonts/CenturyGothic.ttf");
+    font-family: "BebasNeue";
+    src: url("../fonts/BebasNeue-Regular.ttf");
+}
+@font-face {
+    font-family: "Hannibal";
+    src: url("../fonts/Hannibal.ttf");
+}   
